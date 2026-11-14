@@ -68,7 +68,7 @@ d line 66
 d line 67
 d line 68
 d line 69
-before the merge
+d line 70
 d line 71
 d line 72
 d line 73
@@ -78,7 +78,7 @@ d line 76
 d line 77
 d line 78
 d line 79
-d line 80
+after the merge
 d line 81
 d line 82
 d line 83
